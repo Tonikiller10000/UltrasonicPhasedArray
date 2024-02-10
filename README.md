@@ -6,23 +6,19 @@
 
 
 
+<img src="https://github.com/Tonikiller10000/UltrasonicPhasedArray/blob/main/UltrasonicPhasedArray_Pictures/parts.png"/>
+<img src="https://github.com/Tonikiller10000/UltrasonicPhasedArray/blob/main/UltrasonicPhasedArray_Pictures/pcb.png"/>
+<img src="https://github.com/Tonikiller10000/UltrasonicPhasedArray/blob/main/UltrasonicPhasedArray_Pictures/pro.png"/>
+<img src="https://github.com/Tonikiller10000/UltrasonicPhasedArray/blob/main/UltrasonicPhasedArray_Pictures/sch.png"/>
 
-<img src="https://github.com/Tonikiller10000/USB-MassStorageDevice/blob/main/USB_MassStorageDevice_Pictures/3DModel.png"/>
-
-<img src="https://github.com/Tonikiller10000/USB-MassStorageDevice/blob/main/USB_MassStorageDevice_Pictures/proiectareV2.png"/>
 
 
-Schematic:
 
-<img src="https://github.com/Tonikiller10000/USB-MassStorageDevice/blob/main/USB_MassStorageDevice_Pictures/schematic2.png"/>
 
-<table>
-  <tr>
-    <td><img src="https://github.com/Tonikiller10000/USB-MassStorageDevice/blob/main/USB_MassStorageDevice_Pictures/stk3.jpg" ></td>
-    <td><img src="https://github.com/Tonikiller10000/USB-MassStorageDevice/blob/main/USB_MassStorageDevice_Pictures/stk5.jpg" ></td>
-    <td><img src="https://github.com/Tonikiller10000/USB-MassStorageDevice/blob/main/USB_MassStorageDevice_Pictures/stk6.jpg" ></td>
-  </tr>
- </table>
+
+
+
+
 
 
 Datasheets:
