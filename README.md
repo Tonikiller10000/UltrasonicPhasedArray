@@ -1,9 +1,9 @@
 # UltrasonicPhasedArray
  An ultrasonic Phased Array made out of 8x 10mm ultrasonc transmitters.
 
+<img src="https://github.com/Tonikiller10000/UltrasonicPhasedArray/blob/main/UltrasonicPhasedArray_Pictures/parts.png"/>
 <img src="https://github.com/Tonikiller10000/UltrasonicPhasedArray/blob/main/UltrasonicPhasedArray_Pictures/pro.png"/>
 <img src="https://github.com/Tonikiller10000/UltrasonicPhasedArray/blob/main/UltrasonicPhasedArray_Pictures/pcb.png"/>
-<img src="https://github.com/Tonikiller10000/UltrasonicPhasedArray/blob/main/UltrasonicPhasedArray_Pictures/parts.png"/>
 
 Links:
 - schematic: https://github.com/Tonikiller10000/UltrasonicPhasedArray/blob/main/UltrasonicPhasedArray_Pictures/sch.png
