@@ -19,7 +19,7 @@ This examples can be seen in the following picture:
 By combining multiple emitors, you can make a narrower sound wave like an sound LASER.
 <img src="https://lh3.googleusercontent.com/proxy/OXCBphyn6LKgIOYrxJP1FDfGYbe-H5XtUl6BqG6psCCJqaPnHMZ7RECLaWCUshUFGlpMAjtqAGHEM8Q-jDJfoIuhxYw8-Ty7UtB5QqnByxMUq-mXuDWsn2eNOHlrLJLYhUSYzvxlsrTztwYtXsSbGdYZ"/>
 Also, by changing the phase of the waves, you can make one or more directional waves in different points without any moving parts. 
-<img src="https://www.analog.com/en/_/media/images/analog-dialogue/en/volume-53/number-1/articles/phased-array-beamforming-ics-simplify-antenna-design/222152_fig_01.png?w=900&rev=aa6904b54b9441cc926ba431a6b8e594&sc_lang=en"/>
+<img src="https://storage.googleapis.com/tb-img/production/21/01/F1_Neha.B_22-01-21_Savita_D%202.png"/>
 This is the way that ecographyes and 5G work. Also, if you want to find more about this subjects like doppler effect, analog phased array and waves in general, you can read more at the following links:
 
 - [bitluni Phased arrays video + implementation](https://www.youtube.com/watch?v=z4uxC7ISd-c&t=649s)
