@@ -28,19 +28,22 @@ Also, by changing the phase of the waves, you can make one or more directional w
 
 This is the way that ecographyes and 5G work. 
 Also, if you want to find more about this subjects like doppler effect, analog phased array and waves in general, you can read more at the following links:
-- [bitluni Phased arrays video + implementation](https://www.youtube.com/watch?v=z4uxC7ISd-c&t=649s)
-- [bitluni Phased arrays video 2](https://www.youtube.com/watch?v=Evao3XUUAOY)
+- [Bitluni Phased arrays video + implementation](https://www.youtube.com/watch?v=z4uxC7ISd-c&t=649s)
+- [Bitluni Phased arrays video 2](https://www.youtube.com/watch?v=Evao3XUUAOY)
 - [wikiwand](https://www.wikiwand.com/en/Phased_array)
-- [Wikipedia](https://en.wikipedia.org/wiki/Phased_array)
+- [Wikipedia/ Phased Arrays](https://en.wikipedia.org/wiki/Phased_array)
+- [Wikipedia/ Beam forming](https://en.wikipedia.org/wiki/Beamforming)
 - [MathLab Phased Arrays playlist](https://www.youtube.com/playlist?list=PLn8PRpmsu08q9U0y7_63Dfz5cawEnicxi)
+- [diy beamformer](https://www.youtube.com/watch?v=2QXKuEYR4Bw)
+- [Beam forming](https://www.youtube.com/watch?v=HKpQP8H4JRc&t=1125s)
+- [Phased arrays lecture](https://www.youtube.com/watch?v=LYyGkKP4Obg)
+- [Hackaday phased arrays talk](https://www.youtube.com/watch?v=ytBmoL2wZLw&t=1472s)
+- [Phased arryas paper](https://www.mdpi.com/2076-3417/8/9/1544)
+- [Phased array signal processing](https://hackaday.io/page/13711-phased-array-signal-processing)
 
 
-## Links:
+## Datasheets:
 - schematic: https://github.com/Tonikiller10000/UltrasonicPhasedArray/blob/main/UltrasonicPhasedArray_Pictures/sch.png
 - TC78H621FNG(Wave Generator): https://pdf1.alldatasheet.com/datasheet-pdf/view/1465439/TOSHIBA/TC78H621FNG.html
 - TCT40-10TR1(Ultrasonic transmitter): https://www.mantech.co.za/datasheets/products/tct40-10tr1.pdf
-
-
-
-
 
