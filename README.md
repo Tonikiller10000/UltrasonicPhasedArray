@@ -16,13 +16,10 @@ By combining such type of waves, you can make interferences to increase or decre
 If the waves have the same phase, the intensity of the wave doubles, and if the waves have oposite phases, they cancel out. 
 This examples can be seen in the following picture:
 <img src="https://phys.libretexts.org/@api/deki/files/43023/8.4-CD.png?revision=1&size=bestfit&width=801&height=405"/>
-By combining multiple emitors, you can make a narrower sound wave like an sound LASER.
-Also, by changing the phase of the waves, you can make one or more directional waves in different points without any moving parts. 
-
 <table>
   <tr>
-    <td><img src="https://lh3.googleusercontent.com/proxy/OXCBphyn6LKgIOYrxJP1FDfGYbe-H5XtUl6BqG6psCCJqaPnHMZ7RECLaWCUshUFGlpMAjtqAGHEM8Q-jDJfoIuhxYw8-Ty7UtB5QqnByxMUq-mXuDWsn2eNOHlrLJLYhUSYzvxlsrTztwYtXsSbGdYZ"/> <td>
     <td><img src="https://github.com/Tonikiller10000/UltrasonicPhasedArray/blob/main/UltrasonicPhasedArray_Pictures/uph.png"/></td>
+    <td>By combining multiple emitors, you can make a narrower sound wave like an sound LASER and also, by changing the phase of the waves, you can dirrect the waves at different points without any moving parts.</td>
   </tr>
 </table>
 
